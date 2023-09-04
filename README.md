@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Outepaw a final year BSc Psychology student at BNU.
-- 👀 I’m interested in AI , programming, cognitive psychology/cognitive science.
-- 🌱 I’m currently learning ML and creating a chatbot suitable for my dissertation project.
+- 👀 I’m interested in gamedev, AI , programming, cognitive psychology/cognitive science.
+- 🌱 I’m currently learning gamedev
 - 📫 How to reach me : twitter-@PawelG0ral, discord:Outepaw#7341.
 LinkedIn:https://www.linkedin.com/in/pawel-goral-495821176/
 <!---
